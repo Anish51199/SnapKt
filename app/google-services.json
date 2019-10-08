@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "519768078918",
+    "firebase_url": "https://snapkt-c297e.firebaseio.com",
+    "project_id": "snapkt-c297e",
+    "storage_bucket": "snapkt-c297e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519768078918:android:8d20704dbcd5c47e08e847",
+        "android_client_info": {
+          "package_name": "com.anish.snapkt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519768078918-7pmg1fb8s8u68geakj4ankecabr3765k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQo94neXBnWMkw8SP1pOZXIae0exz0jB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519768078918-7pmg1fb8s8u68geakj4ankecabr3765k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
